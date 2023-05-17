@@ -98,8 +98,8 @@ figure {
   margin:  15px 0 5px 0;
 }
   #image {
-  width: 100%;
-  max-width: 100%;
+  width: 80%;
+  max-width: 80%;
   display: block;
   height: 35%;
   margin: 0 auto;
